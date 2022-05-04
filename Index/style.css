@@ -1,8 +1,13 @@
 .logo1 {
-    height: 60px;
+    height: 80px;
     width: 60px;
     
-} 
+}
+.logo2 {
+    height: 80px;
+    width: 60px;
+    
+}  
  .button-1{
      height: 38px;
      background: #e8491d;
@@ -90,7 +95,7 @@ ul{
             background: url(creative.png)  -400px ;
             text-align: center;
             color: #ffffff;
-            margin-bottom: 50px;
+            margin-bottom: 10px;
             
         }
         #showcase h1{
@@ -138,7 +143,8 @@ ul{
           }
           footer{
               padding: 20px;
-              margin-top: 20px;
+              margin-top: 60px;
+              
               color: #ffffff;
               background-color: #e8491d;
               text-align: center;
